@@ -1,8 +1,8 @@
-package com.learnjava.strategy;
+package com.learnjava.strategy.asmd;
 
 /**
  * @author admin
- * @description: 上下文类
+ * @description: 加减乘除策略模式实例：上下文类
  * @date 2022/2/1417:19
  */
 public class Context {

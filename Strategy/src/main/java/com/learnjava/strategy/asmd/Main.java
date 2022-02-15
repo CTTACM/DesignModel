@@ -1,8 +1,8 @@
-package com.learnjava.strategy;
+package com.learnjava.strategy.asmd;
 
 /**
  * @author admin
- * @description: 使用策略模式
+ * @description: 加减乘除策略模式实例：使用策略模式
  * @date 2022/2/1417:24
  */
 public class Main {

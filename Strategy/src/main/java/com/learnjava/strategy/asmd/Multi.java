@@ -1,8 +1,8 @@
-package com.learnjava.strategy;
+package com.learnjava.strategy.asmd;
 
 /**
  * @author admin
- * @description: 乘法策略
+ * @description: 加减乘除策略模式实例：乘法策略
  * @date 2022/2/1417:15
  */
 public class Multi implements Strategy{

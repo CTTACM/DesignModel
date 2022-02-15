@@ -1,8 +1,8 @@
-package com.learnjava.strategy;
+package com.learnjava.strategy.asmd;
 
 /**
  * @author admin
- * @description: 策略模式接口
+ * @description: 加减乘除策略模式实例：策略模式接口
  * @date 2022/2/1417:12
  */
 public interface Strategy {
